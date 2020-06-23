@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.364,C:\Users\golubkov\Documents\RAD Studio\Projects\Project2PCH1.h=D:\projects\cpp\01-basic\BasicPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.514,C:\Users\golubkov\Documents\RAD Studio\Projects\Project2.cbproj=D:\projects\cpp\01-basic\BasicForm.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,C:\Users\golubkov\Documents\RAD Studio\Projects\Unit1.dfm=D:\projects\cpp\01-basic\Basic.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.892,=C:\Users\golubkov\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,=C:\Users\golubkov\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,C:\Users\golubkov\Documents\RAD Studio\Projects\Unit1.cpp=D:\projects\cpp\01-basic\Basic.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,C:\Users\golubkov\Documents\RAD Studio\Projects\Unit1.h=D:\projects\cpp\01-basic\Basic.h</Transaction>
+  </Transactions>
+</BorlandProject>

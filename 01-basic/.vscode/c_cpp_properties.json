@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:\\Program Files\\Embarcadero\\RAD Studio\\10.0\\include\\windows\\crtl",
+        "C:\\Program Files\\Embarcadero\\RAD Studio\\10.0\\include\\windows\\fmx",
+        "C:\\Program Files\\Embarcadero\\RAD Studio\\10.0\\include\\windows\\rtl",
+        "C:\\Program Files\\Embarcadero\\RAD Studio\\10.0\\include\\windows\\sdk",
+        "C:\\Program Files\\Embarcadero\\RAD Studio\\10.0\\include\\windows\\vcl"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "compilerPath": "C:\\TDM-GCC-32\\bin\\gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "gnu++14",
+      "intelliSenseMode": "clang-x86"
+    }
+  ],
+  "version": 4
+}
